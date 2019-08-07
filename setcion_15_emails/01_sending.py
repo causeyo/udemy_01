@@ -7,3 +7,4 @@ smtp_object = smtplib.SMTP('smtp.gmail.com', 587)
 # if doesn't work - firewall or antivirus
 smtp_object.ehlo()
 # greets the server and establish connection
+# one more comment
